@@ -1,0 +1,15 @@
+body {background-image: url(City.jpg);}
+table {background-image: url(Concrete.jpg);}
+#text
+{
+	width:100%;
+}
+#fieldset1
+{
+   margin:50px;
+   background:#808080;
+}
+#table
+{
+   margin:50px;
+}
